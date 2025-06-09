@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 #other
 *.log
+/TwoBigSwords/Saved/Crashes
+/TwoBigSwords/Saved/Config/CrashReportClient
+/TwoBigSwords/Saved/Config/CrashReportClient
