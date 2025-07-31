@@ -78,3 +78,6 @@ DerivedDataCache/*
 /TwoBigSwords/Saved/Crashes
 /TwoBigSwords/Saved/Config/CrashReportClient
 /TwoBigSwords/Saved/Config/CrashReportClient
+
+#RE-ADD ME IF SERIOUS CHANGES ARE MADE. Remove android file server portion.
+/TwoBigSwords/Saved/Config/DefaultEngine.ini
