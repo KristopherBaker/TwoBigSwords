@@ -81,3 +81,4 @@ DerivedDataCache/*
 
 #RE-ADD ME IF SERIOUS CHANGES ARE MADE. Remove android file server portion.
 /TwoBigSwords/Saved/Config/DefaultEngine.ini
+TwoBigSwords/Config/DefaultEngine.ini
